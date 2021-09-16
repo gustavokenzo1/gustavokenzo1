@@ -33,4 +33,4 @@
 [3]: https://t.me/gustavokenzo1
 [4]: https://api.whatsapp.com/send?phone=5561991092610
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/gustavokenzo1/count.svg)
