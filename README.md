@@ -26,3 +26,5 @@
 
 [1]: https://www.instagram.com/gustavokenzo1/
 [2]: mailto:gustavokenzo314@gmail.com
+
+![Visitor Count](https://profile-counter.glitch.me/gustavokenzo1/count.svg)
