@@ -2,9 +2,8 @@
 
 <br>
 
-- 🔭 I’m currently studying Aerospace Engineering at Universidade de Brasília (UnB)
-- 🌱 I’m currently learning Python
-- ⚡ Fun fact: I can solve multiple [Rubik's cubes blindfolded](https://www.worldcubeassociation.org/persons/2015TAKE03)
+- I'm currently studying Software Engineering at Universidade de Brasília (UnB)
+- I'm currently mainly learning JavaScript, TypeScript, ReactJS, React Native, NodeJS and Python, but I've also studied HTML & CSS
 
 <br>
  
