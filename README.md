@@ -27,10 +27,11 @@ I'm looking to learn more in the future about the NextJS framework for ReactJS, 
 <br>
 <br>
 <div align="center">
-  
-  My GitHub Stats            |  My Most Used Languages
-:-------------------------:|:-------------------------:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavokenzo1&hide_title=true&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/gustavokenzo1)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&theme=github_dark&hide_title=true)](https://github.com/gustavokenzo1)
+  <div align="center">
+  <a href="https://github.com/gustavokenzo1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavokenzo1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 <!-- icons with padding -->
 
