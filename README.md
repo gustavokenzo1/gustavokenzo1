@@ -2,32 +2,35 @@
 
 <br>
 
-<div align="center">
-<h4>
+<div align="start">
+<p1>
 I'm currently studying Software Engineering at Universidade de Brasília (UnB)
-</h4>
-<h4>
+</p1>
+  <br><br>
+<p1>
   My main languages are JavaScript, TypeScript and Python
-</h4>
-<h4>
+</p1>
+  <br><br>
+<p1>
 My favorite libraries to work with TypeScript (and sometimes JavaScript) are React for web and React Native for mobile
-</h4>
-<h4>I also use NodeJS to work on the back-end, with the Express framework</h4>
-<h4>
-I'm looking to learn more in the future about NextJS for Server-Side Rendering and all the other possibilities it opens, as well as ThreeJS for 3D rendering and Jest for testing
-</h4>
- <h4>I'm currently working on a Junior Enterprise called Orc'estra Gamificação, and am currently involved in a mobile app project</h4
+</p1>
+  <br><br>
+<p1>I also use NodeJS to work on the back-end, with the Express framework</p1>
+  <br><br>
+<p1>
+I'm looking to learn more in the future about the NextJS framework for ReactJS, for Server-Side Rendering and all the other possibilities it opens, as well as ThreeJS for 3D rendering and Jest for testing
+</p1>
+  <br><br>
+ <p1>I'm currently working on a Junior Enterprise called Orc'estra Gamificação, and am currently involved in a mobile app project</p1>
 </div>
 
 <br>
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavokenzo1&theme=tokyonight)](https://github.com/gustavokenzo1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&theme=tokyonight)](https://github.com/gustavokenzo1)
-
 <br>
+<div align="center">
+  
+  My GitHub Stats            |  My Most Used Languages
+:-------------------------:|:-------------------------:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavokenzo1&hide_title=true&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/gustavokenzo1)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&theme=github_dark&hide_title=true)](https://github.com/gustavokenzo1)
 
 <!-- icons with padding -->
 
