@@ -1,52 +1,64 @@
-### Hi there, welcome to my GitHub! 👋
+Hi 👋 My name is Gustavo Kenzo
+==============================
 
-<br>
+I've been coding for about a year and this is where I store all my projects!
 
-<div align="start">
-<p1>
-I'm currently studying Software Engineering at Universidade de Brasília (UnB)
-</p1>
-  <br><br>
-<p1>
-  My main languages are JavaScript, TypeScript and Python
-</p1>
-  <br><br>
-<p1>
-My favorite libraries to work with TypeScript (and sometimes JavaScript) are React for web and React Native for mobile
-</p1>
-  <br><br>
-<p1>I also use NodeJS to work on the back-end, with the Express framework</p1>
-  <br><br>
-<p1>
-I'm looking to learn more in the future about the NextJS framework for ReactJS, for Server-Side Rendering and all the other possibilities it opens, as well as ThreeJS for 3D rendering and Jest for testing
-</p1>
-  <br><br>
- <p1>I'm currently working on a Junior Enterprise called Orc'estra Gamificação, and am currently involved in a mobile app project</p1>
-</div>
+*   🌍  I'm based in Brasília, Brazil.
+*   ✉️  You can contact me at [gustavokenzo314@gmail.com](mailto:gustavokenzo314@gmail.com)
+*   🤝  I'm open to collaborating on open source projects!
 
-<br>
-<br>
+### Skills
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"         alt="Javascript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36"          alt="Typescript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"              alt="HTML5" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36"              alt="React" />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36"        alt="NextJs" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36"                alt="CSS3" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36"              alt="NodeJS" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36"        alt="Express" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"             alt="MongoDB" />
+  </a>
+</p>
+
+### Socials
+                  
+<p align="center"> 
+  <a href="https://discord.com/users/gustavokenzo#6599" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/gustavokenzo1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+  <a href="http://www.instagram.com/gustavokenzo1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/gustavo-kenzo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+
+### Stats
+
+<br />
+
 <div align="center">
   <div align="center">
-  <a href="https://github.com/gustavokenzo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavokenzo1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-<!-- icons with padding -->
-
- <h5>How to reach me:</h5>
- 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
-[1.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "instagram"
-[2.1]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "gmail"
-[3.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "linkedin"
-[1]: https://www.instagram.com/gustavokenzo1/
-[2]: mailto:gustavokenzo314@gmail.com
-[3]: https://www.linkedin.com/in/gustavo-kenzo/
+  <a href="http://www.github.com/gustavokenzo1"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=gustavokenzo1&show_icons=true&hide=&count_private=true&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true&show_icons=true" alt="gustavokenzo1's GitHub stats" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/>
+  <a href="http://www.github.com/gustavokenzo1"><img height="277em" src="https://activity-graph.herokuapp.com/graph?username=gustavokenzo1&bg_color=121214&color=ffffff&line=8257e6&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  </div>
+  
+  <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/gustavokenzo1/count.svg)
 
