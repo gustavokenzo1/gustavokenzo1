@@ -1,7 +1,7 @@
 Hi 👋 My name is Gustavo Kenzo
 ==============================
 
-I've been coding for about a year and this is where I store all my projects!
+I'm a Software Engineering student at Universidade de Brasília (UnB) and I've been coding for about a year!
 
 *   🌍  I'm based in Brasília, Brazil.
 *   ✉️  You can contact me at [gustavokenzo314@gmail.com](mailto:gustavokenzo314@gmail.com)
@@ -41,10 +41,9 @@ I've been coding for about a year and this is where I store all my projects!
 ### Socials
                   
 <p align="center"> 
-  <a href="https://discord.com/users/gustavokenzo#6599" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/gustavokenzo1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-  <a href="http://www.instagram.com/gustavokenzo1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/gustavo-kenzo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/gustavokenzo#6599" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+  <a href="http://www.instagram.com/gustavokenzo1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 </p>
 
 ### Stats
