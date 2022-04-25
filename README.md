@@ -8,7 +8,7 @@ I'm a Software Engineering student at Universidade de Brasília (UnB) and I've b
 *   🤝  I'm open to collaborating on open source projects!
 
 ### Skills
-<p align="center">
+<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"         alt="Javascript" />
   </a>
@@ -36,15 +36,15 @@ I'm a Software Engineering student at Universidade de Brasília (UnB) and I've b
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"             alt="MongoDB" />
   </a>
-</p>
+</div>
 
 ### Socials
                   
-<p align="center"> 
+<div> 
   <a href="https://www.linkedin.com/in/gustavo-kenzo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/gustavokenzo#6599" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="http://www.instagram.com/gustavokenzo1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-</p>
+</div>
 
 ### Stats
 
