@@ -53,7 +53,11 @@ I'm a Software Engineering student at Universidade de Brasília (UnB) and I've b
 <div align="center">
   <div align="center">
   <a href="http://www.github.com/gustavokenzo1"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=gustavokenzo1&show_icons=true&hide=&count_private=true&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true&show_icons=true" alt="gustavokenzo1's GitHub stats" /></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/>
+    <a href="http://www.github.com/gustavokenzo1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/></a>
+    
+    If this graph ever happens to be empty, call an ambulance:
+    
   <a href="http://www.github.com/gustavokenzo1"><img height="277em" src="https://activity-graph.herokuapp.com/graph?username=gustavokenzo1&bg_color=121214&color=ffffff&line=8257e6&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   </div>
   
