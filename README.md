@@ -1,7 +1,7 @@
 Hi 👋 My name is Gustavo Kenzo
 ==============================
 
-I'm a Software Engineering student at Universidade de Brasília (UnB) and I've been coding for about a year!
+I'm a Software Engineering student at Universidade de Brasília (UnB) and I'm currently focusing on Web Development
 
 *   🌍  I'm based in Brasília, Brazil.
 *   ✉️  You can contact me at [gustavokenzo314@gmail.com](mailto:gustavokenzo314@gmail.com)
