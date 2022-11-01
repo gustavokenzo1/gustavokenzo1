@@ -5,7 +5,7 @@ I'm a Software Engineering student at Universidade de Brasília (UnB) and I'm cu
 
 *   🌍  I'm based in Brasília, Brazil.
 *   ✉️  You can contact me at [gustavokenzo314@gmail.com](mailto:gustavokenzo314@gmail.com)
-*   🤝  I'm open to collaborating on open source projects!
+*   💼 Currently working as a Junior Mobile Developer at Melhores Destinos.
 
 ### Skills
 <div>
