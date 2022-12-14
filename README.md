@@ -58,11 +58,11 @@ I'm a Software Engineering student at Universidade de Brasília (UnB) and I'm cu
     
     If this graph ever happens to be empty, call an ambulance:
     
-  <a href="http://www.github.com/gustavokenzo1"><img height="277em" src="https://activity-graph.herokuapp.com/graph?username=gustavokenzo1&bg_color=121214&color=ffffff&line=8257e6&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  ![GustavoKenzo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavokenzo1&bg_color=121214&color=ffffff&line=8257e6&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
   </div>
   
   <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/gustavokenzo1/count.svg)
-
+  
  </div>
