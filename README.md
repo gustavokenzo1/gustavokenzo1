@@ -56,9 +56,6 @@ I'm a Software Engineering student at Universidade de Brasília (UnB) and I'm cu
     <a href="http://www.github.com/gustavokenzo1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokenzo1&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/></a>
     
-    If this graph ever happens to be empty, call an ambulance:
-    
-  ![GustavoKenzo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavokenzo1&bg_color=121214&color=ffffff&line=8257e6&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
   </div>
   
   <br />
